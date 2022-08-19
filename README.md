@@ -5,4 +5,4 @@ helps in keeping the track of each individual contributor of the project.
 ## User Authentication 
 Firebase is used for the user authentication.
 
-# Activites
+## Activites
