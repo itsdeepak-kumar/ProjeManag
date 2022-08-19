@@ -46,6 +46,7 @@ FireStore is used for the Backend
   </tr>
  </table>
  
+ <table>
   <tr>
     <td>Board Activity</td>
      <td>Board Activity</td>
@@ -58,6 +59,7 @@ FireStore is used for the Backend
   </tr>
  </table>
  
+ <table>
  <tr>
     <td>CreatBoard Activity</td>
      <td>SearchMember Activity</td>
