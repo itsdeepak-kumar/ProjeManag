@@ -6,6 +6,9 @@ helps in keeping the track of each individual contributor of the project.
 Firebase is used for the user authentication.
 FireStore is used for the Backend
 
+#### TechStack
+Kotlin, XML, Firebase, FireStore, Glide
+
 ## Activites
 <table>
   <tr>
