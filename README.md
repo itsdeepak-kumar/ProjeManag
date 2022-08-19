@@ -22,14 +22,14 @@ FireStore is used for the Backend
  
  <table>
   <tr>
-    <td>Intro Activity</td>
-     <td>SignIn Activity</td>
-     <td>SignUp Activity</td>
+    <td>Splash Activity</td>
+     <td>TaskList Activity</td>
+     <td>NavBar Activity</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/64521665/185563037-324de969-a544-4792-b516-624d3566eaf8.jpg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/64521665/185563069-35c5dfc6-7d8d-4b73-ad92-64267bac6a67.jpg" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/64521665/185563094-e42d665e-06b3-495b-9d81-0b4c780780fc" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/64521665/185563094-e42d665e-06b3-495b-9d81-0b4c780780fc.jpg" width=270 height=480></td>
   </tr>
  </table>
  
