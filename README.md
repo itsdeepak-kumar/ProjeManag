@@ -14,6 +14,3 @@ Firebase is used for the user authentication.
 <img src="https://user-images.githubusercontent.com/64521665/185558435-faffa08c-9611-4d70-84a8-ab9e88e69810.jpg" width="250" height="450" />
 
 
-
-![Screenshot_2022-08-19-11-50-01-63_d72a46046480cce98094d7f7f07125d5](https://user-images.githubusercontent.com/64521665/185558435-faffa08c-9611-4d70-84a8-ab9e88e69810.jpg)
-
