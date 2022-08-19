@@ -14,8 +14,8 @@ FireStore is used for the Backend
      <td>SignUp Activity</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64521665/185557508-2eaff6c2-659d-4303-a453-df3d931177d8.jpg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/64521665/185558358-d064af39-eacf-46ad-be61-0921434d289a.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/64521665/185557508-2eaff6c2-659d-4303-a453-df3d931177d8.jpg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/64521665/185558435-faffa08c-9611-4d70-84a8-ab9e88e69810.jpg" width=270 height=480></td>
   </tr>
  </table>
