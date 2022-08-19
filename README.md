@@ -7,4 +7,4 @@ Firebase is used for the user authentication.
 
 ## Activites
 
-<img src="https://user-images.githubusercontent.com/64521665/185557508-2eaff6c2-659d-4303-a453-df3d931177d8.jpg" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/64521665/185557508-2eaff6c2-659d-4303-a453-df3d931177d8.jpg" width="250" height="400" />
